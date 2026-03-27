@@ -1,6 +1,6 @@
 {
-  "v": 6,
-  "msg": "Add choose font, fix color, button",
+  "v": 7,
+  "msg": "Fix ui Fix layout Fix crash(maybe) Fix perfomance Add support old device (android 9+)",
   "url": "https://flex3777.github.io/update/"
 }
 
